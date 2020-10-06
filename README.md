@@ -1,2 +1,2 @@
 # DC_RTE2020_Efficient_SR
-超分辨图像性能挑战赛第8方案
+RTE2020 Algorithm Challenge of Super Resolution 
