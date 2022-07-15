@@ -3,7 +3,7 @@ RTE2020 Algorithm Challenge of Super Resolution
 
 #URL: https://www.dcjingsai.com/v2/cmptDetail.html?id=409 
 
-#Team：One 
+#Team：One and Miracle
 
 #Rank：
 
