@@ -1,8 +1,7 @@
 # DC_RTE2020_Efficient_SR
 RTE2020 Algorithm Challenge of Super Resolution 
 
-## URL: https://www.dcjingsai.com/v2/cmptDetail.html?id=409 
-
+## URL: https://challenge.datacastle.cn/v3/cmptDetail.html?id=409
 ## Team：One and Miracle
 
 ## Rank：
